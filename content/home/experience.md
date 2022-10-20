@@ -45,5 +45,5 @@ experience:
     date_end: '2022'
     description: ''
 design:
-  columns: '2'
+  columns: '6'
 ---
