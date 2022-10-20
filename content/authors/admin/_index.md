@@ -12,7 +12,7 @@ interests:
   - cybernetics
 social:
   - icon: youtube
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.youtube.com/channel/UC6FT4x7-F4_grx8ZL7HBPjw
     label: My youtube channel
   - icon: linkedin
