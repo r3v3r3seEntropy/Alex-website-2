@@ -5,11 +5,11 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - L﻿ogic and computability theory
-  - computational complexity theory
-  - quantum complexity theory
-  - political economy
-  - value theory
-  - cybernetics
+  - Computational complexity theory
+  - Quantum complexity theory
+  - Political economy
+  - Value theory
+  - Cybernetics
 social:
   - display:
       header: false
