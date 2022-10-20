@@ -1,7 +1,7 @@
 ---
 title: "Alex Creimer "
 role: Professor of Artificial Intelligence
-avatar_filename: https://cdn.pixabay.com/photo/2016/10/26/19/00/domain-names-1772243_960_720.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include complexity theory, logic, complex analysis,
   topology, probability, statistics, and information theory, marxian political
   economy, and Economics
