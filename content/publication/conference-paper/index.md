@@ -35,7 +35,7 @@ abstract: >-
   these various classes, and determine their exact placement in the 
 
   Borel hierarchy.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "3"
@@ -59,10 +59,10 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2022-10-20T20:52:34.213Z
+date: 2022-10-20T20:53:06.360Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
