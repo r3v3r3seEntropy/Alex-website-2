@@ -13,7 +13,7 @@ interests:
 social:
   - display:
       header: false
-    link: alex.creiner@unt.edu
+    link: mailto:alex.creiner@unt.edu
     icon_pack: fas
     icon: envelope
     label: Contact me by email
