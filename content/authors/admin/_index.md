@@ -11,7 +11,7 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alex-creiner-85b86813a/
 organizations:
   - name: "University of North Texas "
     url: https://www.unt.edu/
