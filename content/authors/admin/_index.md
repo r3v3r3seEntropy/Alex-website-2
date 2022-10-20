@@ -2,7 +2,7 @@
 title: "Alex Creiner "
 role: ""
 avatar_filename: avatar.jpg
-bio: "My research interests include "
+bio: ""
 interests:
   - Computational complexity theory
   - logic and computability theory
