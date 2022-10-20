@@ -1,6 +1,6 @@
 ---
-title: "Alex Creimer "
-role: Professor of Artificial Intelligence
+title: "Alex Creiner "
+role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include complexity theory, logic, complex analysis,
   topology, probability, statistics, and information theory, marxian political
