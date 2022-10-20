@@ -42,3 +42,7 @@ first_name: Alice
 email: ""
 ---
 Antidisciplinary mathematician seeking to popularize knowledge and design systems which can facilitate a better future, as well as to analyze our existing system with the goal of finding strategies that empower working people so that they can pursue that future. Knowledge production needs to be broken out of academia, and modern thinkers need to be broken out of their comfort zones and niche specialties. I do research in all areas, putting whatever I look at under a mathematical lens. This can hopefully providing a unique and valuable perspective that would make me a valuable addition to any project.
+
+[C﻿lick here for my resume](https://drive.google.com/file/d/1Q8EBvrYOPQAnS0-oF-izV9fKw0N9Z-rc/view?usp=sharing)
+
+[C﻿lick here for my CV](https://drive.google.com/file/d/1QTp3_xE2CH0Ivqr661cVKQEDtfb4fiet/view?usp=sharing)[](https://drive.google.com/file/d/1Q8EBvrYOPQAnS0-oF-izV9fKw0N9Z-rc/view?usp=sharing)
