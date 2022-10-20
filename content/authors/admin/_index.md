@@ -2,14 +2,19 @@
 title: "Alex Creiner "
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include complexity theory, logic, complex analysis,
-  topology, probability, statistics, and information theory, marxian political
-  economy, and Economics
-interests: []
+bio: "My research interests include "
+interests:
+  - Computational complexity theory
+  - logic and computability theory
+  - quantum complexity theory
+  - value theory
+  - political economy
+  - cybernetics
 social:
-  - icon: envelope
+  - icon: youtube
     icon_pack: fas
-    link: /#contact
+    link: https://www.youtube.com/channel/UC6FT4x7-F4_grx8ZL7HBPjw
+    label: My youtube channel
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alex-creiner-85b86813a/
