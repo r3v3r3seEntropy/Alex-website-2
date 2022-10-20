@@ -20,59 +20,31 @@ date_format: Jan 2006
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line 
-s with YAML's `|2-` multi-line prefix.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Teaching Fellow
+  - title: Teaching Fellow
     company: University of North Texas
-    location: Texas
-    date_start: 2016
-    date_end: 2022
+    company_url: ''
+    company_logo: ''
+    location: Tex
+    date_start: '2016'
+    date_end: '2022'
+    description: |2-
+        Responsibilities include:
         
-       
-  - title: Teaching Assistant
-    company: University of North Texas
-    location: Texas
-    date_start: '2015'
-    date_end: '2022'
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: - Graduate Services Assistan
-    company: University of North Texas
-    location: Texas
-    date_start: '2015'
-    date_end: '2022'
-
-
- - title: - Adjunct Faculty
-    company: University of North Texas
-    location: Texas
-    date_start: '2015'
-    date_end: '2022'
-
-
- - title: - Peer Math Assistant
-    company: North Arizona University
-    location: Arizona
-    date_start: '2012'
-    date_end: '2015'
-    
-    
-    - title: - Software Engineering Intern
-    company: Dhisco, Inc
-    location: Arizona
-    date_start: '2017'
-    date_end: '2017'    
-    
-    
-
-
-
-
-
-
-
-
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '6'
+  columns: '2'
 ---
