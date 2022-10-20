@@ -33,35 +33,35 @@ experience:
   - title: Teaching Assistant
     company: University of North Texas
     location: Texas
-    date_start: 2015
-    date_end: 2022
+    date_start: '2015'
+    date_end: '2022'
 
   - title: - Graduate Services Assistan
     company: University of North Texas
     location: Texas
-    date_start: 2015
-    date_end: 2022
+    date_start: '2015'
+    date_end: '2022'
 
 
  - title: - Adjunct Faculty
     company: University of North Texas
     location: Texas
-    date_start: 2015
-    date_end: 2022
+    date_start: '2015'
+    date_end: '2022'
 
 
  - title: - Peer Math Assistant
     company: North Arizona University
     location: Arizona
-    date_start: 2012
-    date_end: 2015
+    date_start: '2012'
+    date_end: '2015'
     
     
     - title: - Software Engineering Intern
     company: Dhisco, Inc
     location: Arizona
-    date_start: 2017
-    date_end: 2017    
+    date_start: '2017'
+    date_end: '2017'    
     
     
 
