@@ -4,11 +4,11 @@ role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Computational complexity theory
-  - logic and computability theory
+  - L﻿ogic and computability theory
+  - computational complexity theory
   - quantum complexity theory
-  - value theory
   - political economy
+  - value theory
   - cybernetics
 social:
   - display:
@@ -41,7 +41,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Antidisciplinary mathematician seeking to popularize knowledge and design systems which can facilitate a better future, as well as to analyze our existing system with the goal of finding strategies that empower working people so that they can pursue that future. Knowledge production needs to be broken out of academia, and modern thinkers need to be broken out of their comfort zones and niche specialties. I do research in all areas, putting whatever I look at under a mathematical lens. This can hopefully providing a unique and valuable perspective that would make me a valuable addition to any project.
+I﻿'m an antidisciplinary mathematician seeking to popularize knowledge and do what I can to bring about a better future. I belief this involves not only designing systems, but also finding strategies that can be acted out by regular people to bring about that future. While I do consider myself a capable researcher of any topic, I pride myself on my ability to take difficult material and find new
+ways to popularly present it, making it accessible to everyone rather than just the elites of academia. 
+
+By calling myself antidisciplinary I am declaring my intention to reject the confining of oneself to a particular niche specialization. I am a mathematician, and I think as such. However, I intend to bring that viewpoint to any area that my interests take me, whether it be economics, sociology, cybernetics, philosophy or history, in order to pursue a holistic view of the world and provide a unique analytical perspective that perhaps couldn't be found elsewhere.
 
 [C﻿lick here for my resume](https://drive.google.com/file/d/1Q8EBvrYOPQAnS0-oF-izV9fKw0N9Z-rc/view?usp=sharing)
 
