@@ -1,9 +1,9 @@
 ---
-widget: Blank
+widget: about
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: Test
+title: Resume, CV
 active: true
 design:
   columns: "2"
