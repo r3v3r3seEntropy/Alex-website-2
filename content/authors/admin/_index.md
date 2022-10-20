@@ -11,6 +11,12 @@ interests:
   - political economy
   - cybernetics
 social:
+  - display:
+      header: false
+    link: alex.creiner@unt.edu
+    icon_pack: fas
+    icon: envelope
+    label: Contact me by email
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/channel/UC6FT4x7-F4_grx8ZL7HBPjw
