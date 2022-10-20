@@ -26,7 +26,7 @@ experience:
     company: University of North Texas
     company_url: ''
     company_logo: ''
-    location: Tex
+    location: Texas
     date_start: '2016'
     date_end: '2022'
     description: |2-
@@ -36,15 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant
+    company: University of North Texas
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: ''
+    location: Teaxas
+    date_start: '2015'
+    date_end: '2022'
+    description: ''
 design:
   columns: '2'
 ---
