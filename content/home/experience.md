@@ -44,17 +44,7 @@ experience:
     date_start: '2015'
     date_end: '2022'
     description: ''
-    
-  - title: Teaching Assistant
-    company: University of North Texas
-    company_url: ''
-    company_logo: ''
-    location: Teaxas
-    date_start: '2015'
-    date_end: '2022'
-    description: ''    
-    
-    
+  
 design:
-  columns: '6'
+  columns: '2'
 ---
