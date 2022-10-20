@@ -42,9 +42,7 @@ publication_types:
 authors:
   - admin
   - Stephen Jackson
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: ""
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
@@ -54,6 +52,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Complexity and Ramsey Largeness of Sets of Oracles Separating Complexity
   Classes
+subtitle: (In preparation, expected to publish within a month)
 doi: ""
 featured: true
 tags: []
