@@ -22,7 +22,7 @@ education:
       year: ""
     - course: Bachelor of Science, Mathematics
       institution: Northern Arizona University
-      year: 2009
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
