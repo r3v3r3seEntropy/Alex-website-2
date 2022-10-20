@@ -44,7 +44,7 @@ email: ""
 I﻿'m an antidisciplinary mathematician seeking to popularize knowledge and do what I can to bring about a better future. I belief this involves not only designing systems, but also finding strategies that can be acted out by regular people to bring about that future. While I do consider myself a capable researcher of any topic, I pride myself on my ability to take difficult material and find new
 ways to popularly present it, making it accessible to everyone rather than just the elites of academia. 
 
-By calling myself antidisciplinary I am declaring my intention to reject the confining of oneself to a particular niche specialization. I am a mathematician, and I think as such. However, I intend to bring that viewpoint to any area that my interests take me, whether it be economics, sociology, cybernetics, philosophy or history, in order to pursue a holistic view of the world and provide a unique analytical perspective that perhaps couldn't be found elsewhere.
+By calling myself antidisciplinary I am declaring my intention to reject the confining of myself to any particular niche specialization. I am a mathematician, and I think like one. However, I intend to bring that viewpoint wherever my interests take me, whether that be economics, sociology, cybernetics, philosophy or history, in order to both pursue a holistic view of the world and to provide a unique analytical perspective that perhaps couldn't be found elsewhere.
 
 [C﻿lick here for my resume](https://drive.google.com/file/d/1Q8EBvrYOPQAnS0-oF-izV9fKw0N9Z-rc/view?usp=sharing)
 
